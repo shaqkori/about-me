@@ -1,0 +1,139 @@
+body{
+    background:#635985;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-container{
+    background:#18122B;
+    color:white;
+    display:flex;
+    width:100%;
+    align-items:center;
+    justify-content:space-between;
+    margin-top:12px;
+    
+
+}
+.nav-logo-container{
+    display:flex;
+    flex-direction:row;
+    background:grey;
+    padding:24px;
+    margin:12px;
+    width:5.2rem;
+    
+    
+
+}
+.l1-container{
+    display:flex;
+    
+}
+.home{
+    display:flex;
+    margin:12px;
+    
+    
+   
+}
+
+.music-container{
+    display:flex;
+    flex-direction:column;
+    
+    
+}
+.music{
+    display:flex;
+    margin-top:42px;
+    margin-left:50px;
+    
+}
+.nav-content{
+    display:flex;
+    margin-right:48px;
+}
+ol{
+    display:flex;
+    gap: 3rem;
+    list-style-type: none;  
+    
+}
+
+.layer-two{
+    display:flex
+}
+.card{
+    display:flex;
+    text-align:center;
+    background-color: rgba(0, 0, 0, 0.50); /* Dark background with slight transparency */
+    border-radius: 20px; /* Rounded corners */
+    padding: 150px; /* Padding inside the card */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); /* Box shadow for a slight lift effect */
+    width: 1000px; /* Set the width as desired */
+
+    margin: 0 auto;
+    margin-top:150px;
+    margin-bottom:150px;
+}
+
+.card-container{
+    display:flex;
+    flex-direction:column;
+    margin-right:auto;
+    flex-basis:500px
+    
+    
+}
+.cc-image-container{
+    display:flex;
+    background:grey;
+    width: 300px;
+    padding:50px;
+    justify-content:center;
+}
+.card-content-image{
+    display:flex;
+    
+}
+
+.layer-four{
+    display:flex;
+    color:white;
+    padding:200px;
+    font-size:30px;
+    margin:auto;
+
+}
+.source{
+    padding-top:200px;
+    margin-left:auto;
+}
+
+.layer-five{
+    display:flex
+}
+.layer-five .card{
+    display:flex;
+    width: 800px;
+    height:25px;
+    flex-direction:column;
+    padding:100px;
+    margin-top:12px;
+
+    
+    
+}
+
+.layer-five .card .card-content{
+    margin-bototm:80px
+
+}
+
+
+.footer-container{
+    display:flex;
+    background:#18122B;
+    justify-content:center;
+}
